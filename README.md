@@ -59,6 +59,7 @@ leetcode-dsa-solutions/
 | [0049-group-anagrams](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -104,4 +105,8 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
