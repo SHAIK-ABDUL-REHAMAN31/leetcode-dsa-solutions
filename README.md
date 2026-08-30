@@ -66,6 +66,7 @@ leetcode-dsa-solutions/
 | [0209-minimum-size-subarray-sum](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -130,6 +131,7 @@ leetcode-dsa-solutions/
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -139,11 +141,13 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
