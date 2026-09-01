@@ -60,6 +60,7 @@ leetcode-dsa-solutions/
 | [0015-3sum](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@ leetcode-dsa-solutions/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -159,4 +161,8 @@ leetcode-dsa-solutions/
 | [0713-subarray-product-less-than-k](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
