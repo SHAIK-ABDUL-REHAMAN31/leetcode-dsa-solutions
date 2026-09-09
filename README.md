@@ -209,4 +209,8 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
