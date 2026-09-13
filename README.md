@@ -138,6 +138,7 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
@@ -157,6 +158,7 @@ leetcode-dsa-solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -205,6 +207,7 @@ leetcode-dsa-solutions/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0152-maximum-product-subarray) |
@@ -223,4 +226,8 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0595-big-countries) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
