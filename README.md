@@ -230,4 +230,12 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
