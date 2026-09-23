@@ -142,6 +142,7 @@ leetcode-dsa-solutions/
 | [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
@@ -245,6 +246,7 @@ leetcode-dsa-solutions/
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0043-multiply-strings) |
 | [0836-rectangle-overlap](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Geometry
@@ -278,4 +280,8 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
