@@ -141,6 +141,7 @@ leetcode-dsa-solutions/
 | [0005-longest-palindromic-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
@@ -260,6 +261,7 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0394-decode-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
