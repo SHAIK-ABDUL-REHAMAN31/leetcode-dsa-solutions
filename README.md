@@ -267,6 +267,7 @@ leetcode-dsa-solutions/
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -304,6 +305,7 @@ leetcode-dsa-solutions/
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0394-decode-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
@@ -346,4 +348,8 @@ leetcode-dsa-solutions/
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0881-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SHAIK-ABDUL-REHAMAN31/leetcode-dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
